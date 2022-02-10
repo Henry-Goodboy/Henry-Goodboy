@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Henry-Goodboy
-- 👀 I’m interested in Web Development, Music, Art, Cycling and Pomeranians
-- 🌱 I’m currently learning Javascript.
+- 👋 Hi, I’m Ryan @Henry-Goodboy 
+- 👀 I’m interested in the OS CS Degree as well as Software Development, Music, Art, Cycling and Pomeranians
+- 🌱 I’m currently learning python and C language.
 - 📫 I can be reached at americanized@gmail.com
 
 <!---
